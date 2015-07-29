@@ -1,0 +1,24 @@
+Tic-tac-toe is an ancient pencil-and-paper game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
+
+Features:
+- Simple and Easy :-)
+- Single Player
+	Play against your smart phone
+- Two Players
+	Play with your friend
+- Interactive sounds
+- Small size, less than half MB
+- Good Timepass
+
+Tic-Tac-Toe originates back to ancient Egypt and is one of the oldest games known.
+Tic Tac Toe can be also called Tic-tac-toe, TTT, noughts and crosses, X's and O's and X and 0 or:
+-	Tick-tack-toe, tic-tac-toe, tick-tat-toe, or tit-tat-toe (USA, Canada)
+-	 Noughts and crosses or Naughts and crosses (Great Britain, Republic of Ireland, Australia, New Zealand, South Africa)
+-	 Exy-Ozys, Xsie-Osies (verbal name only) (Northern Ireland)
+-	Xs and Os (Egypt, Republic of Ireland, Canada, Scotland, Zimbabwe)
+-	X and O (India)
+-	O-X (Mauritius)
+
+All permissions added are completely harmless and at no point do we collect or store any personal information! 
+
+Please send me an email telling me about games you would love to see on android, the ones you played for days when you were a kid and we will bring them back to life for your Android device. Your feedback is valuable to me.Keywords: Free, Casual Games, Timepass, Skills, Simple, Brain & Puzzle, Arcade & Action, TicTacToe, Entertainment

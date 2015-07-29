@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="menu_settings">Settings</string>
+
+    <color name="mycolor">#f5f5f5</color>
+
+    <string name="Clear">Restart</string>
+    <string name="reset">Restart</string>
+    <string name="exit">Exit</string>
+    <string name="sound">Sound Off</string>
+    <string name="back">HOME</string>
+    <string name="about">About</string>
+    <string name="rating">Rate Me</string>
+    <string name="about_text">
+    Tic-tac-toe (or Noughts and crosses, Xs and Os) is a pencil-and-paper game for two players, X and O, who take turns marking the spaces in a 3×3 grid.\n
+    The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.\n	\n
+	This app provides you the option of playing with device as well, so you no longer need to wait for a friend to play along.\n
+	Please share your feedback on my mail.
+	\n</string>
+    <string name="about_version">Tic-Tac-Toe v1.0</string>
+    <string name="about_author_email">vidur.jain@gmail.com</string>
+    <string name="about_project_url"></string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>

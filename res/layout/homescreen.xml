@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/homescreen"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/border"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="50dp"
+        android:layout_centerHorizontal="true"
+        android:text="Tic Tac Toe"
+        android:textColor="#489CDF"
+        android:textSize="40dp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <Button
+        android:id="@+id/singlePlayer"
+        style="@style/ButtonText"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/multiPlayer"
+        android:layout_below="@+id/header"
+        android:background="@drawable/bluebutton"
+        android:text="Single Player" />
+
+    <TextView
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/singlePlayer"
+        android:padding="10dp" >
+    </TextView>
+
+    <Button
+        android:id="@+id/multiPlayer"
+        style="@style/ButtonText"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/view1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bluebutton"
+        android:text="Two Players" />
+
+    <TextView
+        android:id="@+id/view2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/multiPlayer"
+        android:padding="10dp" >
+    </TextView>
+
+    <Button
+        android:id="@+id/exit_btn"
+        style="@style/ButtonText"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/view2"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bluebutton"
+        android:text="Exit" />
+
+</RelativeLayout>
